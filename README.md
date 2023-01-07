@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @IROPA-Zakarie
+- 👋 Hi, I’m @fr33_k3v1n
 - 👀 I’m interested in web programming and hacking
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on 
+- 💻🖥️ i like low-level programming 
+- i programme in python, C, js and php
+- 💞️ 
 - you can contact me on whatsapp: 229 51 68 13 77
 
 <!---
