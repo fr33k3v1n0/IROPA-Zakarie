@@ -3,7 +3,7 @@
 - 💻🖥️ i like low-level programming 
 - i programme in python, C, js and php
 - 💞️ 
-- you can contact me on whatsapp: 229 51 68 13 77
+- you can contact me on whatsapp: 
 
 <!---
 IROPA-Zakarie/IROPA-Zakarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
